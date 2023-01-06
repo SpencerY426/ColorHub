@@ -1,5 +1,5 @@
-# COLOR HUB
->>> Version V 1.0
+# Color Hub
+> Version V 1.0
 
 
 By Rick and Spen
