@@ -4,7 +4,7 @@
 
 By Rick and Spen
 
-** DESCRIPTION: **  
+**DESCRIPTION:**  
 Color hub allows you 
 
 INSTRUCTIONS:  
