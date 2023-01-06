@@ -4,10 +4,10 @@
 
 By Rick and Spen
 
-DESCRIPTION:
+** DESCRIPTION: **  
 Color hub allows you 
 
-INSTRUCTIONS:
+INSTRUCTIONS:  
 1. Copy the entire code
 2. Navigate to the website the code will be effective for
 3. Go to Inspect Element using shortcut (Ctrl + Shift + I) (Cmd + Shift + I), or right click -> inspect
@@ -15,6 +15,6 @@ INSTRUCTIONS:
 5. Paste the copied code and press enter
 6. Enjoy!
 
-VERSION UPDATE INFORMATION
+VERSION UPDATE INFORMATION  
 V. 1.0:
 - Launched Color Hub with 5 commands
