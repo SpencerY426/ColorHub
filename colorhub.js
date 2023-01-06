@@ -13,9 +13,6 @@ $$ |  $$\ $$ |  $$ |$$ |     $$ |  $$ |$$ |  $$ |      $$ |  $$ |$$ |  $$ |$$ | 
 
 By Rick and Spen
 
-DESCRIPTION:
-Color hub allows you 
-
 INSTRUCTIONS:
 1. Copy the entire code
 2. Navigate to the website the code will be effective for
@@ -29,8 +26,6 @@ V. 1.0:
 - Launched Color Hub with 5 commands
 																					 
 */
-
-
 
 
 
