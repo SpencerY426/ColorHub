@@ -1,4 +1,4 @@
-# Color Hub
+# --- Color Hub ---
 > Version V 1.0
 
 
