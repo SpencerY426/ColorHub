@@ -24,9 +24,9 @@ V. 1.0:
 
 # Command List
 
-b > brightness up 0.2  
-bb > brightness down 0.2  
-bc > brightness custom add/subtract amount  
-g > grayscale on  
-gg > grayscale off  
-changetxtcolor > change whole page to a text color of your choice  
+**b** > brightness up 0.2  
+**bb** > brightness down 0.2  
+**bc** > brightness custom add/subtract amount  
+**g** > grayscale on  
+**gg** > grayscale off  
+**changetxtcolor** > change whole page to a text color of your choice  
