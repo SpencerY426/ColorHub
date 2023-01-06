@@ -34,4 +34,7 @@ V. 1.0:
 # Credits
 
 Project Collaborators:  
-- ScripterRickster
+- ScripterRickster  
+
+  
+NOTE: I am not a professional developer so expect this to have flaws...
